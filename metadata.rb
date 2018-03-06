@@ -4,7 +4,7 @@ maintainer_email 'agon.smith@gmail.com'
 license 'Apache-2.0'
 description 'updates rubygems package to the latest'
 long_description 'updates rubygems package to the latest'
-version '0.1.0'
+version '0.1.1'
 chef_version '>= 12.7' if respond_to?(:chef_version)
 
 supports 'centos'
